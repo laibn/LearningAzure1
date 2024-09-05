@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureBlobStorage": "",
+    "AzureServiceBus": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}

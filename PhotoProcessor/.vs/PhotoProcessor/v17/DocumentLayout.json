@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|c:\\users\\pc\\desktop\\learningazure1\\photoprocessor\\photoprocessor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|solutionrelative:photoprocessor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|c:\\users\\pc\\desktop\\learningazure1\\photoprocessor\\photoprocessor\\wwwroot\\onesignalsdkworker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|solutionrelative:photoprocessor\\wwwroot\\onesignalsdkworker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|c:\\users\\pc\\desktop\\learningazure1\\photoprocessor\\photoprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|solutionrelative:photoprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|c:\\users\\pc\\desktop\\learningazure1\\photoprocessor\\photoprocessor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|solutionrelative:photoprocessor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|c:\\users\\pc\\desktop\\learningazure1\\photoprocessor\\photoprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|solutionrelative:photoprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|c:\\users\\pc\\desktop\\learningazure1\\photoprocessor\\photoprocessor\\views\\photo\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|solutionrelative:photoprocessor\\views\\photo\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|c:\\users\\pc\\desktop\\learningazure1\\photoprocessor\\photoprocessor\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|solutionrelative:photoprocessor\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|c:\\users\\pc\\desktop\\learningazure1\\photoprocessor\\photoprocessor\\models\\photometadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|solutionrelative:photoprocessor\\models\\photometadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|c:\\users\\pc\\desktop\\learningazure1\\photoprocessor\\photoprocessor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D247A0-4101-467A-9815-F60CE1B0DFBC}|PhotoProcessor\\PhotoProcessor.csproj|solutionrelative:photoprocessor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PhotoProcessor\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PhotoProcessor\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T15:23:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OneSignalSDKWorker.js",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\wwwroot\\OneSignalSDKWorker.js",
+              "RelativeDocumentMoniker": "PhotoProcessor\\wwwroot\\OneSignalSDKWorker.js",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\wwwroot\\OneSignalSDKWorker.js",
+              "RelativeToolTip": "PhotoProcessor\\wwwroot\\OneSignalSDKWorker.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T14:32:59.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Views\\Photo\\Upload.cshtml",
+              "RelativeDocumentMoniker": "PhotoProcessor\\Views\\Photo\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Views\\Photo\\Upload.cshtml",
+              "RelativeToolTip": "PhotoProcessor\\Views\\Photo\\Upload.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T16:10:49.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhotoController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Controllers\\PhotoController.cs",
+              "RelativeDocumentMoniker": "PhotoProcessor\\Controllers\\PhotoController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Controllers\\PhotoController.cs",
+              "RelativeToolTip": "PhotoProcessor\\Controllers\\PhotoController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:04:59.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "PhotoProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Program.cs",
+              "RelativeToolTip": "PhotoProcessor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:52:28.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PhotoProcessor\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PhotoProcessor\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:51:29.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\appsettings.json",
+              "RelativeDocumentMoniker": "PhotoProcessor\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\appsettings.json",
+              "RelativeToolTip": "PhotoProcessor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T15:48:58.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhotoMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Models\\PhotoMetadata.cs",
+              "RelativeDocumentMoniker": "PhotoProcessor\\Models\\PhotoMetadata.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Models\\PhotoMetadata.cs",
+              "RelativeToolTip": "PhotoProcessor\\Models\\PhotoMetadata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:27:19.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PhotoProcessor\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\LearningAzure1\\PhotoProcessor\\PhotoProcessor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PhotoProcessor\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T17:56:47.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
