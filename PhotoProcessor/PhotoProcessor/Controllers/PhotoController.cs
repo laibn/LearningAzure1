@@ -10,21 +10,22 @@ namespace PhotoProcessor.Controllers
     public class PhotoController : Controller
     {
         private readonly BlobServiceClient _blobServiceClient;
-        private readonly ApplicationDbContext _context;
+        private readonly CosmosDbService _cosmosDbService;
         private readonly ServiceBusClient _serviceBusClient;
 
-        public PhotoController(BlobServiceClient blobServiceClient, ApplicationDbContext context, ServiceBusClient serviceBusClient)
+        public PhotoController(BlobServiceClient blobServiceClient, CosmosDbService cosmosDbService, ServiceBusClient serviceBusClient)
         {
             _blobServiceClient = blobServiceClient;
-            _context = context;
+            _cosmosDbService = cosmosDbService;
             _serviceBusClient = serviceBusClient;
         }
+
         public IActionResult Upload()
         {
             return View();
         }
         [HttpPost]
-        public IActionResult Upload(IFormFile file)
+        public async Task<IActionResult> Upload(IFormFile file)
         {
             if (file == null || file.Length == 0)
             {
@@ -42,28 +43,29 @@ namespace PhotoProcessor.Controllers
 
             var metadata = new PhotoMetadata
             {
+                id = Guid.NewGuid().ToString(),
                 FileName = file.FileName,
                 BlobUri = blobClient.Uri.ToString(),
                 UploadDate = DateTime.UtcNow,
                 ProcessedBlobUri = " "
             };
 
-            _context.Photos.Add(metadata);
-            _context.SaveChanges();
+            await _cosmosDbService.AddPhotoMetadataAsync(metadata);
 
             var message = new
             {
                 BlobUri = metadata.BlobUri,
-                ImageId = metadata.Id
+                ImageId = metadata.id
             };
 
             var messageJson = JsonSerializer.Serialize(message);
             var serviceBusMessage = new ServiceBusMessage(messageJson);
             var sender = _serviceBusClient.CreateSender("laiqueue");
-            sender.SendMessageAsync(serviceBusMessage).Wait();
+            await sender.SendMessageAsync(serviceBusMessage);
 
             ViewBag.Message = "Image uploaded successfully!";
             return View();
         }
+
     }
 }
